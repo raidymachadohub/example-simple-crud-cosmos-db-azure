@@ -1,1 +1,3 @@
-"# example-simple-crud-cosmos-db-azure" 
+Using Cosmos DB Azure.
+
+Using Microsoft.Azure.DocumentDB.Core
